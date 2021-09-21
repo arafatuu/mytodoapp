@@ -34,7 +34,7 @@ const Todo = () => {
 
   return (
     <div className="container">
-      <h2 className="display-4 text-center mb-5">This is Todo List</h2>
+      <h2 className="display-4 text-center mb-5">This is a Todo List</h2>
 
       <div class="text-center">
         <Button onClick={toggleForm} className="my-3 addButton">
